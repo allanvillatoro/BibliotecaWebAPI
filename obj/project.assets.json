@@ -5760,11 +5760,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\A2\\source\\repos\\BibliotecaAPIREST\\BibliotecaAPIREST.csproj",
-      "projectName": "BibliotecaAPIREST",
-      "projectPath": "C:\\Users\\A2\\source\\repos\\BibliotecaAPIREST\\BibliotecaAPIREST.csproj",
+      "projectUniqueName": "C:\\proyectos\\GitHub\\BibliotecaWebAPI\\BibliotecaWebAPI.csproj",
+      "projectName": "BibliotecaWebAPI",
+      "projectPath": "C:\\proyectos\\GitHub\\BibliotecaWebAPI\\BibliotecaWebAPI.csproj",
       "packagesPath": "C:\\Users\\A2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\A2\\source\\repos\\BibliotecaAPIREST\\obj\\",
+      "outputPath": "C:\\proyectos\\GitHub\\BibliotecaWebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

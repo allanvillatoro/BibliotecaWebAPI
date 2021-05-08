@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\proyectos\\GitHub\\BibliotecaWebAPI\\BibliotecaAPIREST.csproj": {}
+    "C:\\proyectos\\GitHub\\BibliotecaWebAPI\\BibliotecaWebAPI.csproj": {}
   },
   "projects": {
-    "C:\\proyectos\\GitHub\\BibliotecaWebAPI\\BibliotecaAPIREST.csproj": {
+    "C:\\proyectos\\GitHub\\BibliotecaWebAPI\\BibliotecaWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\proyectos\\GitHub\\BibliotecaWebAPI\\BibliotecaAPIREST.csproj",
-        "projectName": "BibliotecaAPIREST",
-        "projectPath": "C:\\proyectos\\GitHub\\BibliotecaWebAPI\\BibliotecaAPIREST.csproj",
+        "projectUniqueName": "C:\\proyectos\\GitHub\\BibliotecaWebAPI\\BibliotecaWebAPI.csproj",
+        "projectName": "BibliotecaWebAPI",
+        "projectPath": "C:\\proyectos\\GitHub\\BibliotecaWebAPI\\BibliotecaWebAPI.csproj",
         "packagesPath": "C:\\Users\\A2\\.nuget\\packages\\",
         "outputPath": "C:\\proyectos\\GitHub\\BibliotecaWebAPI\\obj\\",
         "projectStyle": "PackageReference",

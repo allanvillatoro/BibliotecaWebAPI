@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R3Nrgmifn9CWEjSvmRJe9nLn/muY+bVELC4vuVKco7MqVhpgS2mdu5Z/XqmjXb9DhkSWWarqA8nZDJXYpUFJYA==",
+  "dgSpecHash": "1FvI4w2skS6pDIdL2R+DXRlNjcKBHn62kxEd4dGCEgLfuQg+lJDyWmfuWovLD2ECxt7ISYoS98wfsJFOFMen7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\A2\\source\\repos\\BibliotecaAPIREST\\BibliotecaAPIREST.csproj",
+  "projectFilePath": "C:\\proyectos\\GitHub\\BibliotecaWebAPI\\BibliotecaWebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\A2\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\A2\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
